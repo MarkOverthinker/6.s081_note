@@ -10,3 +10,4 @@
 * [pingpong](lab1-utilities/pingpong.md)
 * [prime](lab1-utilities/prime.md)
 * [find](lab1-utilities/find.md)
+* [xargs](lab1-utilities/xargs.md)
