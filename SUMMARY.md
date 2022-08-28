@@ -11,3 +11,8 @@
 * [prime](lab1-utilities/prime.md)
 * [find](lab1-utilities/find.md)
 * [xargs](lab1-utilities/xargs.md)
+
+## lab2 syscall
+
+* [trace](lab2-syscall/trace.md)
+* [sysinfo](lab2-syscall/sysinfo.md)
