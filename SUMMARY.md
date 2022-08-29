@@ -17,4 +17,6 @@
 
 ## lab3 page tables
 
-* [Page 1](lab3-page-tables/page-1.md)
+* [Print](lab3-page-tables/print.md)
+* [A kernel page table per process](lab3-page-tables/a-kernel-page-table-per-process.md)
+* [Simplify copyin/copyinstr](lab3-page-tables/simplify-copyin-copyinstr.md)
