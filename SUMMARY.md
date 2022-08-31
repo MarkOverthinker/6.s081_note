@@ -36,6 +36,7 @@
 
 * [Implement](lab6-copy-on-right/implement.md)
 
-## Group 1
+## Lab7: Multithreading
 
-* [Page 1](group-1/page-1.md)
+* [Using threads](lab7-multithreading/using-threads.md)
+* [Barrier](lab7-multithreading/barrier.md)
