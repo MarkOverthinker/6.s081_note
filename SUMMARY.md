@@ -25,3 +25,9 @@
 
 * [Backtrace](lab4-traps/backtrace.md)
 * [Alarm](lab4-traps/alarm.md)
+
+## Lab5: xv6 lazy page allocation
+
+* [策略](lab5-xv6-lazy-page-allocation/ce-lve.md)
+* [Eliminate allocation from sbrk()](lab5-xv6-lazy-page-allocation/eliminate-allocation-from-sbrk.md)
+* [Lazy allocation](lab5-xv6-lazy-page-allocation/lazy-allocation.md)
