@@ -32,6 +32,10 @@
 * [Eliminate allocation from sbrk()](lab5-xv6-lazy-page-allocation/eliminate-allocation-from-sbrk.md)
 * [Lazy allocation](lab5-xv6-lazy-page-allocation/lazy-allocation.md)
 
-## lab5 copy-on-right
+## lab6 copy-on-right
 
-* [Implement](lab5-copy-on-right/implement.md)
+* [Implement](lab6-copy-on-right/implement.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
