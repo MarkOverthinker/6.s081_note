@@ -38,5 +38,6 @@
 
 ## Lab7: Multithreading
 
+* [使用到的库函数](lab7-multithreading/shi-yong-dao-de-ku-han-shu.md)
 * [Using threads](lab7-multithreading/using-threads.md)
 * [Barrier](lab7-multithreading/barrier.md)
