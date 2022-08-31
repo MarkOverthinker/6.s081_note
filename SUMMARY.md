@@ -20,3 +20,8 @@
 * [Print](lab3-page-tables/page-1.md)
 * [A kernel page table per process](lab3-page-tables/a-kernel-page-table-per-process.md)
 * [Simplify copyin/copyinstr](lab3-page-tables/simplify-copyin-copyinstr.md)
+
+## LAb4 traps
+
+* [Backtrace](lab4-traps/backtrace.md)
+* [Alarm](lab4-traps/alarm.md)
