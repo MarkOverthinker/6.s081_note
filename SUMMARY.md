@@ -31,3 +31,7 @@
 * [策略](lab5-xv6-lazy-page-allocation/ce-lve.md)
 * [Eliminate allocation from sbrk()](lab5-xv6-lazy-page-allocation/eliminate-allocation-from-sbrk.md)
 * [Lazy allocation](lab5-xv6-lazy-page-allocation/lazy-allocation.md)
+
+## lab5 copy-on-right
+
+* [Implement](lab5-copy-on-right/implement.md)
