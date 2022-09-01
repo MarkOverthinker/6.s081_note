@@ -46,3 +46,8 @@
 
 * [Memory allocator](lab8-locks/memory-allocator.md)
 * [Buffer cache](lab8-locks/buffer-cache.md)
+
+## Lab9: file system
+
+* [Large files](lab9-file-system/large-files.md)
+* [Symbolic links](lab9-file-system/symbolic-links.md)
